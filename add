@@ -1,0 +1,5 @@
+Alphabitical_array = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+def enc_text(text):
+	base_text = text
+	for x in base_text:
+		if
